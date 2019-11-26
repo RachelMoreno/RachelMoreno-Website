@@ -1,6 +1,7 @@
+#Welcome to Rachel Moreno
+!This is a screenshot of my final lab for CS 8, which is a brief portfolio on my achievements. (img/ss.jpg)
 
-# Welcome to LearnCS8 Resume Website
+Written with StackEdit.#Welcome to Rachel Moreno
+!This is a screenshot of my final lab for CS 8, which is a brief portfolio on my achievements. (img/ss.jpg)
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+Written with StackEdit.
